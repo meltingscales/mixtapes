@@ -5,7 +5,6 @@ warm
 probably include entire album.
 
 https://blackmothsuperrainbow.bandcamp.com/album/cobra-juicy
-(need to )
 VERY warm, psychedelic
 probably relaxing for him.
 include entire album.
