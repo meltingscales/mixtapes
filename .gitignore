@@ -1,0 +1,36 @@
+# Audio files
+*.mp3
+*.wav
+*.wma
+*.flac
+*.aac
+*.m4a
+*.ogg
+*.opus
+*.aiff
+*.ape
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+._*
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
+*.tmp
+*.log
+*.bak
