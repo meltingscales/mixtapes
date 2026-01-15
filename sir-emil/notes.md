@@ -1,3 +1,10 @@
+
+## Tracklist
+
+1. ALBUM Skiptracing by Mild High Club
+2. ALBUM High Visceral {Part 1} by Psychedelic Porn Crumpets
+
+## scratch
 $15
 https://stimming.bandcamp.com/album/elderberry
 (more varied, probably more stimulating for him)
@@ -39,3 +46,11 @@ Kamasi Washington feat. Patrice Quinn, DJ Battlecat & Brandon Coleman - Computer
 Kamasi Washington & Andre 3000 - Dream State
 
 Minecraft - Volume Alpha - by C418
+
+
+found god in a tomato
+psychedelic porn crumpets
+
+fishing for fishies
+
+gumboot soup
